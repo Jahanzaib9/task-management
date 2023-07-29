@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "webmaster",
+      "password": "web@123",
+      "groupId": 1
+    },
+    {
+      "username": "webmaster",
+      "password": "password",
+      "groupId": 1,
+      "id": 2
+    },
+    {
+      "username": "webmaster1",
+      "password": "password",
+      "groupId": 1,
+      "id": 3
+    },
+    {
+      "username": "webmaster",
+      "password": "password",
+      "groupId": 1,
+      "id": 4
+    },
+    {
+      "username": "webmaster12",
+      "password": "password",
+      "groupId": 2,
+      "id": 5
+    },
+    {
+      "username": "webmaster",
+      "password": "password",
+      "groupId": 2,
+      "id": 6
+    },
+    {
+      "username": "webmaster",
+      "password": "password",
+      "groupId": 2,
+      "id": 7
+    },
+    {
+      "username": "asdf",
+      "password": "password",
+      "groupId": 2,
+      "id": 8
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "Description for Task 1",
+      "completed": true,
+      "groupId": "1",
+      "userId": "user-1"
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Description for Task 2",
+      "completed": false,
+      "groupId": "1",
+      "userId": "user-2"
+    },
+    {
+      "id": 1690629271050,
+      "title": "asf",
+      "description": "asdf",
+      "completed": false,
+      "groupId": "1"
+    },
+    {
+      "id": 1690630371422,
+      "title": "new task",
+      "description": "new task",
+      "completed": false,
+      "groupId": "2"
+    },
+    {
+      "id": 1690630856409,
+      "title": "asdf",
+      "description": "asdf",
+      "completed": false,
+      "groupId": "2"
+    }
+  ]
+}

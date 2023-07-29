@@ -1,0 +1,14 @@
+.main-row {
+  margin-top: "20px";
+  height: "70vh";
+}
+
+.main-col {
+  margin: "auto";
+}
+
+.div-style {
+  display: "flex";
+  justify-content: "center";
+  margin-bottom: "20px";
+}

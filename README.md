@@ -40,6 +40,12 @@ Once the installation is complete, you can start the application by following th
 
 You should see the ReactJS application running in the browser.
 
+4. Use this credentials or any other to log in
+
+#### username: "webmaster",
+
+#### "password": "web@123",
+
 ## Running the back-end server
 
 1. install json-server globally using the following command

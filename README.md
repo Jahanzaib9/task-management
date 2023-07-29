@@ -15,7 +15,7 @@ Follow the steps below to install and run the ReactJS application:
 
 1. Clone the repository to your local machine using Git or download the source code as a ZIP file and extract it.
 
-   ### `git clone https://github.com/Jahanzaib9/assesment-test.git`
+   ### `git clone https://github.com/Jahanzaib9/task-management.git`
 
 2. Open a terminal or command prompt and navigate to the project's root directory.
 
